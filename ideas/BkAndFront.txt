@@ -1,1 +1,5 @@
-
+💡 Minha recomendação para o FieldFlow
+Como seu MVP precisa ser rápido, escalável e com possibilidade de virar app no futuro:
+Backend: Django REST Framework (API)
+Frontend: React + Vite (pode virar PWA e depois empacotar como app nativo).
+Essa combinação vai te dar flexibilidade para integrar MQTT/WebSocket, fazer interface bonita e escalar no futuro sem reescrever tudo.
